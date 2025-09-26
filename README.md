@@ -24,10 +24,6 @@ Say goodbye to manual queries and hello to **interactive, conversational databas
 
 ---
 
-## 👩‍💻 Author
-**Bhumika Shrivas**  
-
----
 
 ## ⚡ Quick Start Guide
 ```bash
